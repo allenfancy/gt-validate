@@ -1,1 +1,2 @@
-# gt-validate
+极验验证的Java实现
+使用SpringFrameWork框架实现
